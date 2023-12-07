@@ -24,6 +24,10 @@
   <div><img src="${ctp}/board/7.jpg" width="150px"/> (o)</div>
   <div><img src="${ctp}/pds/12.jpg" width="150px"/> (o)</div>
   <div><img src="${ctp}/pds/13.jpg" width="150px"/> (o)</div>
+  <hr/>
+   <p>
+    <a href="${ctp}/" class="btn btn-primary">Home으로</a> 
+   </p>
 </div>  
 <p><br/></p>
 </body>
